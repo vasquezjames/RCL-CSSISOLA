@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "O6woUn9SDCUSSYnumh2/qnvL13l60RK8bytnLwXobf4=",
+  "Source": "RCL02",
+  "BasePath": "_content/RCL02",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RCL02\\wwwroot",
+      "Source": "RCL02",
+      "ContentRoot": "C:\\Proyectos\\VS2022\\RCL-CSSISOLA\\BlazorApp01\\BlazorApp01\\RCL02\\wwwroot\\",
+      "BasePath": "_content/RCL02",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Proyectos\\VS2022\\RCL-CSSISOLA\\BlazorApp01\\BlazorApp01\\RCL02\\obj\\Debug\\net6.0\\scopedcss\\bundle\\RCL02.styles.css",
+      "SourceId": "RCL02",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Proyectos\\VS2022\\RCL-CSSISOLA\\BlazorApp01\\BlazorApp01\\RCL02\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/RCL02",
+      "RelativePath": "RCL02.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Proyectos\\VS2022\\RCL-CSSISOLA\\BlazorApp01\\BlazorApp01\\RCL02\\obj\\Debug\\net6.0\\scopedcss\\bundle\\RCL02.styles.css"
+    },
+    {
+      "Identity": "C:\\Proyectos\\VS2022\\RCL-CSSISOLA\\BlazorApp01\\BlazorApp01\\RCL02\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RCL02.bundle.scp.css",
+      "SourceId": "RCL02",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Proyectos\\VS2022\\RCL-CSSISOLA\\BlazorApp01\\BlazorApp01\\RCL02\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/RCL02",
+      "RelativePath": "RCL02.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Proyectos\\VS2022\\RCL-CSSISOLA\\BlazorApp01\\BlazorApp01\\RCL02\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RCL02.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Proyectos\\VS2022\\RCL-CSSISOLA\\BlazorApp01\\BlazorApp01\\RCL02\\wwwroot\\background.png",
+      "SourceId": "RCL02",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Proyectos\\VS2022\\RCL-CSSISOLA\\BlazorApp01\\BlazorApp01\\RCL02\\wwwroot\\",
+      "BasePath": "_content/RCL02",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Proyectos\\VS2022\\RCL-CSSISOLA\\BlazorApp01\\BlazorApp01\\RCL02\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "RCL02",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Proyectos\\VS2022\\RCL-CSSISOLA\\BlazorApp01\\BlazorApp01\\RCL02\\wwwroot\\",
+      "BasePath": "_content/RCL02",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}
