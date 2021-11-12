@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "Y/3+8jTBlcU3ftFGluXn+lK6aGfc38Q9+ZCZx4rRk14=",
+  "Source": "RCL01",
+  "BasePath": "_content/RCL01",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RCL01\\wwwroot",
+      "Source": "RCL01",
+      "ContentRoot": "C:\\Proyectos\\VS2022\\RCL-CSSISOLA\\RCL01\\RCL01\\RCL01\\wwwroot\\",
+      "BasePath": "_content/RCL01",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Proyectos\\VS2022\\RCL-CSSISOLA\\RCL01\\RCL01\\RCL01\\obj\\Debug\\net6.0\\scopedcss\\bundle\\RCL01.styles.css",
+      "SourceId": "RCL01",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Proyectos\\VS2022\\RCL-CSSISOLA\\RCL01\\RCL01\\RCL01\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/RCL01",
+      "RelativePath": "RCL01.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Proyectos\\VS2022\\RCL-CSSISOLA\\RCL01\\RCL01\\RCL01\\obj\\Debug\\net6.0\\scopedcss\\bundle\\RCL01.styles.css"
+    },
+    {
+      "Identity": "C:\\Proyectos\\VS2022\\RCL-CSSISOLA\\RCL01\\RCL01\\RCL01\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RCL01.bundle.scp.css",
+      "SourceId": "RCL01",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Proyectos\\VS2022\\RCL-CSSISOLA\\RCL01\\RCL01\\RCL01\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/RCL01",
+      "RelativePath": "RCL01.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Proyectos\\VS2022\\RCL-CSSISOLA\\RCL01\\RCL01\\RCL01\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RCL01.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Proyectos\\VS2022\\RCL-CSSISOLA\\RCL01\\RCL01\\RCL01\\wwwroot\\background.png",
+      "SourceId": "RCL01",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Proyectos\\VS2022\\RCL-CSSISOLA\\RCL01\\RCL01\\RCL01\\wwwroot\\",
+      "BasePath": "_content/RCL01",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Proyectos\\VS2022\\RCL-CSSISOLA\\RCL01\\RCL01\\RCL01\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "RCL01",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Proyectos\\VS2022\\RCL-CSSISOLA\\RCL01\\RCL01\\RCL01\\wwwroot\\",
+      "BasePath": "_content/RCL01",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}
